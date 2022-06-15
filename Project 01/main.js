@@ -8,7 +8,12 @@
 | Libraries:   React (16.7.0 - development) | [https://reactjs.org/]
 +-----------------------------------------------------------------------
 | Implementation Notes:
-|  > Discoveries / problems / To-Do's / etc.
+|  > Blank CodePen: https://codepen.io/pen
++-----------------------------------------------------------------------
+| Questions:
+|  > Are we using JSX or no?
+|  > Common/Suggested means of creating [local] server to run webpages
+|    as to please the 'CORS Gods'?
 +-----------------------------------------------------------------------
 |            < OIC/OEC : Praise Be The Honourable Mentors! >            
 +#####################################################################*/
