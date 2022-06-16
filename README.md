@@ -1,9 +1,14 @@
-# Special Task : Opening Act (React.js Learn-To-Command Ops)
-
-## Note:
-
-I'll likely move links/refs/resources hereto very soon, but in the meantime they're mostly located within the <main.js> file of the 'Project 01' proj subdir
+# Special Task : Opening Act 
+*(React.js Learn-To-Command Ops)*
 
 ## Links:
 
-React Homepage: https://reactjs.org/
+React.js Homepage: https://reactjs.org/
+Jest.js Homepage: https://jestjs.io/
+
+## Tutorial Vids (React.js)
+* https://www.youtube.com/watch?v=bMknfKXIFA8
+* x
+
+## Tutorial Vids (Jest.js)
+* x
