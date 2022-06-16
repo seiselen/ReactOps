@@ -3,7 +3,4 @@
 +#####################################################################*/
 
 
-const element = React.createElement('div', {
-  className: 'container',
-  children: Date.now().toLocaleString()
-});
+ReactDOM.render(<h1>Yolo</h1>, document.getElementById("root"));
