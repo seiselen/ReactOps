@@ -1,19 +1,4 @@
-/*----------------------------------------------------------------------
-|>>> JEST QUESTIONS:
-|      > Can it do input validation i.e. check for bad inputs? Actually
-|        is redundant i.e. not it's department, but still see if/how...    
-+---------------------------------------------------------------------*/
-
-
 const functs = require('./someFuncts');
-var funRef;
-var testIn;
-var expOut;
-
-
-
-
-
 
 const testBlurb = (fName, fInVal, fOutVal, verb) => {return "function ["+fName+"] of input ["+fInVal+"] should "+verb+" output ["+fOutVal+"]";}
 
