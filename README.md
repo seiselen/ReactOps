@@ -6,11 +6,11 @@
 * Jest.js Homepage: https://jestjs.io/
 * package.json Guide: https://nodejs.dev/learn/the-package-json-guide
 
-## Tutorial Vids (React.js)
+## YT Tutorial Vids (React.js)
 * https://www.youtube.com/watch?v=bMknfKXIFA8
-* x
+* [React JS Crash Course (Traversy Media)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 
-## Tutorial Vids (Jest.js)
-* https://www.youtube.com/watch?v=7r4xVDI2vho
+## YT Tutorial Vids (Jest.js)
+* [Jest JSD Crash Course (Traversy Media)](https://www.youtube.com/watch?v=7r4xVDI2vho)
 * x
