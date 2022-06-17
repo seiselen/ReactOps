@@ -6,7 +6,7 @@
 * [Jest.js Homepage](https://jestjs.io/)
 * [Jest.js API (and good overview thereof!)](https://jestjs.io/docs/api)
 * [package.json Guide](https://nodejs.dev/learn/the-package-json-guide)
-* x
+* [React 'Intro To JSX' Article](https://reactjs.org/docs/introducing-jsx.html)
 
 ## YT Tutorial Vids (React.js)
 * https://www.youtube.com/watch?v=bMknfKXIFA8
