@@ -4,6 +4,7 @@
 ## Links:
 * React.js Homepage: https://reactjs.org/
 * Jest.js Homepage: https://jestjs.io/
+* Jest.js API (good overview of scope thereof!): https://jestjs.io/docs/api
 * package.json Guide: https://nodejs.dev/learn/the-package-json-guide
 
 ## YT Tutorial Vids (React.js)
