@@ -9,7 +9,6 @@
 * [React 'Intro To JSX' Article](https://reactjs.org/docs/introducing-jsx.html)
 
 ## YT Tutorial Vids
-* https://www.youtube.com/watch?v=bMknfKXIFA8
 * [React JS Crash Course (Traversy Media)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 * [Jest JS Crash Course (Traversy Media)](https://www.youtube.com/watch?v=7r4xVDI2vho)
 * [Node JS Crash Course (Traversy Media)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
